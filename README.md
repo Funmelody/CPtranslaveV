@@ -6,7 +6,7 @@
 
 |         Công việc         | Người thực hiện |                   Trạng thái                   |
 | :-----------------------: | :-------------: | :--------------------------------------------: |
-| Giao diện đồ họa việt hóa |     MinhArt     | <span style="color:red">Chưa hoàn thành</span> |
+| Giao diện đồ họa việt hóa |     MinhArt     | <span style="color:green">Hoàn thành</span> |
 | Giao diện đồ họa việt hóa |      Vinh       | <span style="color:red">Chưa hoàn thành</span> |
 |     Dialogue Abigail      |       Tú        |  <span style="color:green">Hoàn thành</span>   |
 |       Dialogue Alex       |       Tú        |  <span style="color:green">Hoàn thành</span>   |
@@ -18,8 +18,8 @@
 |      Dialogue Emily       |       Tú        |  <span style="color:green">Hoàn thành</span>   |
 |      Dialogue Evelyn      |       Hà        |  <span style="color:green">Hoàn thành</span>   |
 |      Dialogue George      |       Hà        |  <span style="color:green">Hoàn thành</span>   |
-|       Dialogue Gil        |       Hà        |  <span style="color:red">Hoàn thành</span>   |
-|       Dialogue Gus        |       Hà        | <span style="color:red">Chưa hoàn thành</span> |
+|       Dialogue Gil        |       Hà        |  <span style="color:green">Hoàn thành</span>   |
+|       Dialogue Gus        |       Hà        |  <span style="color:green">Hoàn thành</span>   |
 |      Dialogue Haley       |    MinhTrans    | <span style="color:red">Chưa hoàn thành</span> |
 |      Dialogue Harvey      |       Hà        | <span style="color:red">Chưa hoàn thành</span> |
 |       Dialogue Jas        |      Toàn       | <span style="color:red">Chưa hoàn thành</span> |
@@ -62,6 +62,7 @@ Là một người chơi hệ skip, hằng ngày mình chăm chỉ nuôi cá r�
   - Evelyn
   - George
   - Gil
+  - Gus
 - Hội thoại sự kiện:
   - chưa dịch sự kiện
 
