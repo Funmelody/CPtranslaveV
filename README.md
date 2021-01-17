@@ -90,7 +90,7 @@ MỌI Ý KIẾN ĐÓNG GÓP CÁC BẠN VUI LÒNG CHỤP TOÀN MÀN HÌNH NGAY T�
 
 -
 
-## MANAGER HIỆN TẠI LÀ [TÚ](https://www.facebook.com/H.A.C.2K1/)
+## MANAGER HIỆN TẠI: [TÚ](https://www.facebook.com/H.A.C.2K1/)
 
 > Tâm sự bên lề: <br>
 >
