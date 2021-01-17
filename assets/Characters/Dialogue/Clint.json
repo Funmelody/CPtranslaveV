@@ -1,6 +1,6 @@
 {
-  "Introduction": "Ừm... chào cháu. Chú là Clint.#$e#Chú là thợ rèn của thị trấn. Nếu mà cháu cần nâng cấp các dụng cụ thì chú rất sẵn lòng giúp đỡ.",
-  "Resort_Entering": "Chú sẽ mặc chiếc quần đặc biệt màu đỏ. Trông chú sẽ bắt mắt lắm đây.",
+  "Introduction": "Ừm... chào cháu. Chú là Clint.#$e#Chú là thợ rèn của thị trấn. Nếu mà cháu cần nâng cấp các công cụ thì chú rất sẵn lòng giúp đỡ.",
+  "Resort_Entering": "Chú sẽ mặc chiếc quần màu đỏ thật đặc biệt của chú. Trông chú sẽ bắt mắt lắm đây.",
   "Resort_Leaving": "Ừm... việc này có vẻ không hay ho như chú đã nghĩ...",
   "Resort_Shore": "Ôi không... Chú quên cắt móng chân rồi.$s",
   "Resort_Shore_2": "Chú đã nghĩ việc làm ở lò rèn lâu nay có thể giúp mình quen với cái nóng, vậy mà chú lại đổ mồ hôi đầm đìa ở nơi này.$s#$e#Chú mong là không có ai để ý...#$e#%Cơ thể chú Clint trông ướt đẫm mồ hôi...",
@@ -18,15 +18,15 @@
   "Tue": "Nếu cháu muốn nâng cấp các dụng cụ của mình, cháu sẽ phải đưa cho chú đúng loại quặng mà dụng cụ đó cần.#$e#Và dĩ nhiên cháu sẽ phải trả tiền công cho chú nữa.",
   "Wed": "Này. Cháu cần gì à?",
   "Wed6": "Oh, xin chào @. Nếu trông chú có lôi thôi thì cho chú xin lỗi nhé. Chú đã dành cả buổi sáng để làm việc trong lò rèn.$h#$e#Vậy, cháu có cần gì không, hay là cháu chỉ ghé thăm chú thôi?",
-  "Thu": "Gần đây việc làm ăn của chú khá tệ.#$e#Cháu có muốn nâng cấp dụng cụ của mình không? Chú cần phải kiếm ít tiền trang trải.",
+  "Thu": "Gần đây việc làm ăn của chú khá tệ.#$e#Cháu có cần nâng cấp dụng cụ của mình không? Chú cần phải kiếm ít tiền trang trải.",
   "Fri": "Thời tiết bên ngoài như thế nào chẳng ảnh hưởng gì chú cả. Vì quanh năm suốt tháng chú toàn làm việc trong lò rèn.#$e#Chán nhỉ?",
   "Sat": "Đôi khi chú tự hỏi sao mình lại quyết định sống tại thị trấn này.$u",
-  "Sat6": "Khỉ thật, chú quá già cho những việc mang đầy tính kích thích này. Những điều mà chủ biết là đổ mồ hôi từ năm này sang tháng nọ, làm việc ở một lò rèn nóng bức.",
+  "Sat6": "Khỉ thật, chú quá già cho những việc mang đầy tính kích thích này. Những điều mà chú biết là đổ mồ hôi từ năm này sang tháng nọ, làm việc ở một lò rèn nóng bức.",
   "Sun": "Cháu không có việc gì để làm à?",
   "Sun4": "Các dụng cụ của cháu như thế nào rồi?",
   "event_advice1": "Okay... chú sẽ ghi nhớ điều đó.",
   "event_advice2": "Vấn đề chính là chỗ đấy... chú đã cố tỏ ra tự nhiên... nhưng mà chưa lần nào thành công cả.$s",
   "summer_Mon4": "Hãy mừng vì cháu là một người nông dân, @. Lao động ở ngoài trời vẫn tốt hơn là ở trong lò rèn cả ngày.#$e#Chú bị bố ép nên mới phải làm nghề rèn này thôi.",
   "summer_Wed6": "Oh, xin chào @. Nếu trông chú có lôi thôi thì cho chú xin lỗi nhé. Chú đã dành cả buổi sáng để làm việc trong lò rèn.$h#$e#Vậy, cháu có cần gì không, hay là cháu chỉ ghé thăm chú thôi?",
-  "summer_Thu": "Gần đây việc làm ăn của chú khá tệ.#$e#Cháu có muốn nâng cấp dụng cụ của mình không? Chú cần phải kiếm ít tiền trang trải."
+  "summer_Thu": "Gần đây việc làm ăn của chú khá tệ.#$e#Cháu có cần nâng cấp dụng cụ của mình không? Chú cần phải kiếm ít tiền trang trải."
 }
