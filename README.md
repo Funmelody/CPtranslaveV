@@ -19,7 +19,7 @@
 |      Dialogue Evelyn      |       Hà        |  <span style="color:green">Hoàn thành</span>   |
 |      Dialogue George      |       Hà        |  <span style="color:green">Hoàn thành</span>   |
 |       Dialogue Gil        |       Hà        |  <span style="color:green">Hoàn thành</span>   |
-|       Dialogue Gus        |       Hà        | <span style="color:green">Hoàn thành</span> |
+|       Dialogue Gus        |       Hà        |  <span style="color:green">Hoàn thành</span>   |
 |      Dialogue Haley       |    MinhTrans    | <span style="color:red">Chưa hoàn thành</span> |
 |      Dialogue Harvey      |       Hà        | <span style="color:red">Chưa hoàn thành</span> |
 |       Dialogue Jas        |      Toàn       | <span style="color:red">Chưa hoàn thành</span> |
