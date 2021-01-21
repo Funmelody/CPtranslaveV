@@ -1,12 +1,12 @@
 {
-  "Mon": "Hi... Everything okay?",
-  "Mon4": "I've learned a lot from my parrot family...#$b#But I'm sure there's a lot more out there I don't know.$s",
-  "Tue": "When Sun is angry, it feels good in the jungle.#$e#Sun can't find us beneath the leaves. We trick him! Haha...$h",
-  "Wed": "...Sorry... I'm shy today.$3",
-  "Wed2": "Be careful in the volcano... the spirits don't like outsiders.",
-  "Thu": "Have you met the others like you?#$b#I don't talk to them much. I feel safer with my own kind...$3",
-  "Fri": "One time... I was at the top of the volcano at night, and I saw lights far, far away.#$b#I wonder if there are other bird families out there?$3",
-  "Fri3": "I wonder if I could see your home from the top of the volcano?",
-  "Sat": "...I'm sad today.$s#$e#You go on... have fun. Let me be sad.$s",
-  "Sun": "When it rains, strange birds visit.#$b#I try to speak to them... but they fly away.$s#$b#I guess they don't want to be friends...$s"
+  "Mon": "Xin chào... Mọi thứ ổn cả chứ?",
+  "Mon4": "Tớ đã học được rất nhiều từ gia đình nhà vẹt của mình...#$b#Nhưng chắc chắn rằng vẫn còn nhiều điều mà tớ chưa biết ở ngoài kia.$s",
+  "Tue": "When Sun is angry, it feels good in the jungle.#$e#Sun can't find us beneath the leaves. We trick him! Haha...$h","note_01":"cần tham khảo bản dịch",
+  "Wed": "...Xin lỗi... Hôm nay mình thấy ngại.$3",
+  "Wed2": "Hãy cẩn thận khi bạn ở trong núi lửa... hỏa linh không thích người lạ mặt đâu.","note_02":"spirit = hỏa linh có hợp không?",
+  "Thu": "Bạn có gặp những người khác như bạn không?#$b#Tớ chẳng mấy khi nói chuyện với họ cả. Tớ cảm thấy an toàn hơn khi ở cùng với loài của mình...$3",
+  "Fri": "Có một lần... tớ đứng trên đỉnh núi lửa vào ban đêm, và tớ thấy ánh sáng từ phía xa xa.#$b#Tớ không biết liệu có những loài chim khác ở ngoài đó không?$3",
+  "Fri3": "Tớ thắc mắc liệu mình có thể thấy được nhà bạn từ trên đỉnh núi lửa không?",
+  "Sat": "...Hôm nay tớ thấy không vui.$s#$e#Bạn cứ đi đi... chúc vui vẻ nhé. Hãy mặc kệ tớ.$s",
+  "Sun": "Khi trời mưa, có những chú chim lạ xuất hiện.#$b#Tớ thử cố nói chuyện với chúng... nhưng chúng lại bay đi mất.$s#$b#Chắc chúng không muốn làm bạn với tớ...$s"
 }
