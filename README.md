@@ -8,7 +8,7 @@
 | :-------- | :---------- | :-------------- | ---------------------------------------------: |
 | Giao diện | Việt hóa    | MinhArts        |    <span style="color:green">Hoàn thành</span> |
 |           | Việt hóa    | Vinh            | <span style="color:red">Chưa hoàn thành</span> |
-| ---       | ---         | ---             |                                            --- |
+| --------- | ----------- | --------------- | ---------------------------------------------- |
 | Dialogue  | Abigail     | Tú              |    <span style="color:green">Hoàn thành</span> |
 |           | Alex        | Tú              |    <span style="color:green">Hoàn thành</span> |
 |           | Caroline    | Tú              |    <span style="color:green">Hoàn thành</span> |
@@ -28,9 +28,11 @@
 |           | Kent        | Hà              |    <span style="color:green">Hoàn thành</span> |
 |           | Krobus      | Hà              |    <span style="color:green">Hoàn thành</span> |
 |           | Leah        | Hoàn            | <span style="color:red">Chưa hoàn thành</span> |
-|           | Leo         | Hà              | <span style="color:red">Chưa hoàn thành</span> |
-|           | LeoMainland | Hà              | <span style="color:red">Chưa hoàn thành</span> |
+|           | Leo         | Hà              |    <span style="color:green">Hoàn thành</span> |
+|           | LeoMainland | Hà              |    <span style="color:green">Hoàn thành</span> |
 |           | Lewis       | MinhTrans       | <span style="color:red">Chưa hoàn thành</span> |
+|           | Linus       | Hà              | <span style="color:red">Chưa hoàn thành</span> |
+| -         | -           | -               |                                              - |
 
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn tham gia vào quá trình phiên dịch<br>
 > Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
