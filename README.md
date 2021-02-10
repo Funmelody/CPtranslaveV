@@ -4,35 +4,64 @@
 
 > Ngày bắt đầu dịch: 01/01/2021<br>
 
-| Mục       | Công việc   | Người thực hiện |                                     Trạng thái |
-| :-------- | :---------- | :-------------- | ---------------------------------------------: |
-| Giao diện | Việt hóa    | MinhArts        |    <span style="color:green">Hoàn thành</span> |
-|           | Việt hóa    | Vinh            | <span style="color:red">Chưa hoàn thành</span> |
-| --------- | ----------- | --------------- | ---------------------------------------------- |
-| Dialogue  | Abigail     | Tú              |    <span style="color:green">Hoàn thành</span> |
-|           | Alex        | Tú              |    <span style="color:green">Hoàn thành</span> |
-|           | Caroline    | Tú              |    <span style="color:green">Hoàn thành</span> |
-|           | Clint       | Tú              |    <span style="color:green">Hoàn thành</span> |
-|           | Demetrius   | Tú              |    <span style="color:green">Hoàn thành</span> |
-|           | Dwarf       | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Elliott     | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Emily       | Tú              |    <span style="color:green">Hoàn thành</span> |
-|           | Evelyn      | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | George      | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Gil         | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Gus         | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Haley       | MinhTrans       |    <span style="color:green">Hoàn thành</span> |
-|           | Harvey      | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Jas         | Hoàn            |    <span style="color:green">Hoàn thành</span> |
-|           | Jodi        | Hoàn            | <span style="color:red">Chưa hoàn thành</span> |
-|           | Kent        | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Krobus      | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Leah        | Hoàn            | <span style="color:red">Chưa hoàn thành</span> |
-|           | Leo         | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | LeoMainland | Hà              |    <span style="color:green">Hoàn thành</span> |
-|           | Lewis       | MinhTrans       | <span style="color:red">Chưa hoàn thành</span> |
-|           | Linus       | Hà              | <span style="color:red">Chưa hoàn thành</span> |
-| -         | -           | -               |                                              - |
+| Mục       | Công việc                 | Người thực hiện |                                     Trạng thái |     Kiểm tra & sửa lỗi     |
+| :-------- | :------------------------ | :-------------- | ---------------------------------------------: | :------------------------: |
+| Giao diện | Việt hóa                  | MinhArts        |    <span style="color:green">Hoàn thành</span> |                            |
+|           | Việt hóa                  | Vinh            | <span style="color:red">Chưa hoàn thành</span> |                            |
+| --------- | ------------------------- | --------------- | ---------------------------------------------- | -------------------------- |
+| Dialogue  | Abigail                   | Tú              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Alex                      | Tú              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Caroline                  | Tú              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Clint                     | Tú              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Demetrius                 | Tú              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Dwarf                     | Hà              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Elliott                   | Hà              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Emily                     | Tú              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Evelyn                    | Hà              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | George                    | Hà              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Gil                       | Hà              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Gus                       | Hà              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Haley                     | MinhTrans       |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Harvey                    | Hà              |    <span style="color:green">Hoàn thành</span> |             ✅             |
+|           | Jas                       | Toàn            |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Jodi                      | Toàn            |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Kent                      | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Krobus                    | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Leah                      | Toàn            | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Leo                       | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | LeoMainland               | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Lewis                     | MinhTrans       |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Linus                     | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Marnie                    | Vinh            | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Maru                      | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Mister Qi                 | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Pam                       | Hà              |    <span style="color:green">Hoàn thành</span> |             ❌             |
+|           | Penny                     | Hà              | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Pierre                    | MinhTrans       | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Robin                     | MinhTrans       | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Sam                       | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Sandy                     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Sebastian                 | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Shane                     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Vincent                   | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Willy                     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | Wizard                    | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | rainy                     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogue          | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueAbigail   | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueAlex      | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueElliott   | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueEmily     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueHaley     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueHarvey    | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueKrobus    | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueLeah      | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueMaru      | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialoguePenny     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueSam       | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueSebastian | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+|           | MarriageDialogueShane     | -               | <span style="color:red">Chưa hoàn thành</span> |             ❌             |
+| -         | -                         | -               |                                              - |             -              |
 
 > Liên hệ với mình qua [facebook](https://www.facebook.com/H.A.C.2K1/) nếu muốn tham gia vào quá trình phiên dịch<br>
 > Phải sử dụng git. Nếu chưa biết sử dụng git thì mình sẽ hướng dẫn để làm việc nhóm nhanh hơn.<br>
